@@ -1,0 +1,14 @@
+[
+    {
+        "customer":"A",
+        "amount":500
+    },
+    {
+        "customer":"B",
+        "amount":700
+    },
+    {
+        "customer":"C",
+        "amount":300
+    }
+]
